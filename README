@@ -1,0 +1,59 @@
+# 🚀 Mars Recycling Mission – AI-Powered Material Classifier
+♻️ Sustainable Resource Management for Mars Colonization
+
+PROJECT OVERVIEW
+“Our project identifies recyclable materials using AI and generates Mars-specific recycling strategies through Google’s Gemini API. It supports sustainable living on Mars by promoting closed-loop recycling and ISRU (In-Situ Resource Utilization).”
+
+KEY HIGHLIGHTS
+🧠 AI-powered material classification
+
+📷 Camera and image upload support
+
+🤖 LLM integration for recycling insights
+
+🚀 Mars-specific mission reports
+
+TECH STACK
+- Python
+- TensorFlow / Keras
+- Streamlit
+- OpenCV
+- Google Gemini API
+- Pandas / NumPy
+
+PROJECT STRUCTURE
+Mars-Recycling-Mission/
+├── app.py
+├── train.py
+├── mars_app.py
+├── materials.json
+├── material_model.h5
+├── requirements.txt
+├── data/
+│   ├── Train/
+│   ├── val/
+│   └── Test/
+
+DATASET INFORMATION
+Folder structure : Train, val, Test
+
+Types of materials : Aluminium, Plastic, Glass, CircuitBoard
+
+FUTURE SCOPS
+Add robotic sorting systems
+
+Expand dataset for more materials
+
+Offline AI model for Mars base
+
+Deploy via Streamlit Cloud or Docker.
+
+
+IMPACT
+Model accuracy (e.g., 93%)
+
+Energy savings on Mars (95%)
+
+Demonstrated sustainability benefits.
+
+THANK YOU
